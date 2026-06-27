@@ -3,7 +3,7 @@
   color: #ffffff;
 }
 
-.hero h1 {
+.hero .hero-text {
   text-align: center;
   font-weight: 700;
   font-size: 56px;
@@ -11,7 +11,7 @@
   letter-spacing: 0.02em;
 }
 
-.hero button {
+.hero .hero-button {
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
@@ -21,10 +21,10 @@
   letter-spacing: 0.04em;
 }
 
-.hero button:hover {
+.hero .hero-button:hover {
   background-color: #404bbf;
 }
 
-.hero button:focus {
+.hero .hero-button:focus {
   background-color: #404bbf;
 }

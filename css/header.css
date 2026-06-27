@@ -1,8 +1,11 @@
 .page-nav .link {
   font-weight: 500;
-  color: #434455;
+  color: #2e2f42;
 }
 .page-nav .link:hover {
+  color: #404bbf;
+}
+.page-nav .link:focus {
   color: #404bbf;
 }
 .page-nav .link:active {
@@ -20,14 +23,14 @@
   color: #4d5ae5;
 }
 
-.header-address .link {
+.header-address .address-link {
   font-style: normal;
   color: #434455;
 }
 
-.header-address .link:hover {
+.header-address address-link:hover {
   color: #404bbf;
 }
-.header-address .link:focus {
+.header-address address-link:focus {
   color: #404bbf;
 }
