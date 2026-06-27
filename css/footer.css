@@ -1,14 +1,20 @@
 .footer {
   background-color: #2e2f42;
-
   color: #f4f4fd;
 }
 
 .footer-logo {
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 18px;
+  line-height: 1.333;
+  letter-spacing: 0.03em;
   color: #f4f4fd;
 }
 .footer-logo span {
   color: #4d5ae5;
+}
+
+footer p {
+  letter-spacing: 0.02em;
 }

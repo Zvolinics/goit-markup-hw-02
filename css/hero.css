@@ -8,15 +8,23 @@
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 
 .hero button {
   background-color: #4d5ae5;
   color: #ffffff;
   cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 .hero button:hover {
+  background-color: #404bbf;
+}
+
+.hero button:active {
   background-color: #404bbf;
 }
