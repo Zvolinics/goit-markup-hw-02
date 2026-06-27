@@ -1,0 +1,28 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team h2 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+.team li {
+  background-color: #ffffff;
+}
+
+.team li h3 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+
+.team li p {
+  text-align: center;
+}

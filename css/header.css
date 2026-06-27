@@ -1,0 +1,10 @@
+header nav {
+  font-weight: 500;
+}
+.header-logo {
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.header-logo span {
+  color: #4d5ae5;
+}
