@@ -25,6 +25,6 @@
   background-color: #404bbf;
 }
 
-.hero button:active {
+.hero button:focus {
   background-color: #404bbf;
 }
