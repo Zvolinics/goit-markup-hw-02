@@ -28,9 +28,9 @@
   color: #434455;
 }
 
-.header-address address-link:hover {
+.header-address .address-link:hover {
   color: #404bbf;
 }
-.header-address address-link:focus {
+.header-address .address-link:focus {
   color: #404bbf;
 }
